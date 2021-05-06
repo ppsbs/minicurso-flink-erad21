@@ -1,6 +1,5 @@
 package hpi.des.flink_tutorial;
 import hpi.des.flink_tutorial.session2.*;
-import hpi.des.flink_tutorial.session2.solution.EventTimeTipInvestigationSolution;
 import hpi.des.flink_tutorial.util.DateParser;
 import hpi.des.flink_tutorial.util.TaxiRideTuple;
 import junit.framework.TestCase;
