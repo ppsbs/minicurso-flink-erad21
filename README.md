@@ -15,7 +15,7 @@ Clone the repository:
    git clone git@github.com:ppsbs/minicurso-flink-erad21.git
    ```
 
-If you are using eclipse, you may have to run the following command to open correctly open the project:
+If you are using eclipse, you may have to run the following command to open the project correctly:
 ```bash
 mvn eclipse:eclipse
 ```
