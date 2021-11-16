@@ -6,7 +6,7 @@
 - Java 11
 - Maven > 3.6
 - IntelliJ or Eclipse
-- Discord: https://discord.gg/zSVW5pTv
+- Discord: https://discord.com/invite/t7B4jVeW
 
 ## Code
 

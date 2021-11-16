@@ -14,11 +14,32 @@ public class TipInvestigation {
         DataStreamSource<String> sourceStream = env.readTextFile(InputFile.getInputFilePath());
 
         sourceStream.flatMap(new TransformSourceStreamOperator())
+
                 // exercise 1
+                // .operator1(new Exercise1Operator())
+                // operator1 could be a map, filter, flatMap, etc
+                // Read TransformSourceStreamOperator for more insights
+
+
+
                 // exercise 2
+                // .operator2(new Exercise2Operator())
+                // operator2 could be a map, filter, flatMap, etc
+                // Read TransformSourceStreamOperator for more insights
+
+
                 // exercise 3
+                // .operator3(new Exercise3Operator())
+                // operator3 could be a map, filter, flatMap, etc
+
                 // exercise 4
+                // .operator4(new Exercise4Operator())
+                // operator4 could be a map, filter, flatMap, etc
+
                 // exercise 5
+                // .operator5(new Exercise4Operator())
+                // operator5 could be a map, filter, flatMap, etc
+
                 .print();
 
 
