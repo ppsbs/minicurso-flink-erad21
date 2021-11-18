@@ -6,7 +6,7 @@
 - Java 11
 - Maven > 3.6
 - IntelliJ or Eclipse
-- Discord: https://discord.com/invite/t7B4jVeW
+- Discord: https://discord.gg/WMyRvumx
 
 ## Code
 
@@ -24,7 +24,12 @@ mvn eclipse:eclipse
 
 Download the exercises' statements:
 ```bash
-https://docs.google.com/document/d/1A3ZQDju4v633CXakPl168_b6q1EXKVfPIzY93JajA2M/edit?usp=sharing
+https://docs.google.com/document/d/1MbKWinP_IFGiyaM2aIgZvHWHFpilLGvHKfSiQOcJ1Po/edit?usp=sharing
 ```
 
+## Slides
+Download the slides of the theoretical introduction:
+```bash
+https://drive.google.com/file/d/1p4t-AP_K_gsLGinRjl2JsfOxlEdBjqfq/view?usp=sharing
+```
 
