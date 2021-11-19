@@ -19,14 +19,13 @@ public class TipInvestigation {
                 // .operator1(new Exercise1Operator())
                 // operator1 could be a map, filter, flatMap, etc
                 // Read TransformSourceStreamOperator for more insights
-
-
+                .map(new Exercise1Operator())
 
                 // exercise 2
                 // .operator2(new Exercise2Operator())
                 // operator2 could be a map, filter, flatMap, etc
                 // Read TransformSourceStreamOperator for more insights
-
+                .filter(new Exercise2Operator())
 
                 // exercise 3
                 // .operator3(new Exercise3Operator())
