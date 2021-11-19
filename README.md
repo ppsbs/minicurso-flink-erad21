@@ -5,6 +5,11 @@
 - Maven > 3.6
 - IntelliJ or Eclipse
 
+## Exercises / Challenges
+Download the exercises' statements:
+```bash
+https://docs.google.com/document/d/1MbKWinP_IFGiyaM2aIgZvHWHFpilLGvHKfSiQOcJ1Po/edit?usp=sharing
+```
 
 ## Code
 Clone the repository:
@@ -17,11 +22,6 @@ If you are using eclipse, you might have to run the following command to open th
 mvn eclipse:eclipse
 ```
 
-## Exercises
-Download the exercises' statements:
-```bash
-https://docs.google.com/document/d/1MbKWinP_IFGiyaM2aIgZvHWHFpilLGvHKfSiQOcJ1Po/edit?usp=sharing
-```
 
 ## Discord Channel
 https://discord.gg/WMyRvumx
